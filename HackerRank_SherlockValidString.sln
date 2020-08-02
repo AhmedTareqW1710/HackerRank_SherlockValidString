@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank_SherlockValidString", "HackerRank_SherlockValidString\HackerRank_SherlockValidString.csproj", "{406560D6-32C6-4E3E-8DF9-86FE9E7DF427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406560D6-32C6-4E3E-8DF9-86FE9E7DF427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406560D6-32C6-4E3E-8DF9-86FE9E7DF427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406560D6-32C6-4E3E-8DF9-86FE9E7DF427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406560D6-32C6-4E3E-8DF9-86FE9E7DF427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA8B24F-B760-4642-A074-1856E393AD72}
+	EndGlobalSection
+EndGlobal
