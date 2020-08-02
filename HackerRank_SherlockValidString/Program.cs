@@ -30,7 +30,6 @@ class Solution
         while (!isEmptyList)
         {
             numberOfDouplicateOfeachChar.Add(sList.Where(x => x == sList[0]).Count());
-            //sList.RemoveAll(x => x == sList[0]);
             sList.RemoveRange(0, sList.Where(x => x == sList[0]).Count());
             if (sList.Count <= 0)
                 isEmptyList = true;
